@@ -18,5 +18,9 @@
         <maven.compiler.target>23</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-
+    <scm>
+        <connection>scm:git:git://github.com/mahmutihsandal/maven-multi-module.git</connection>
+        <developerConnection>scm:git:ssh://github.com:mahmutihsandal/maven-multi-module.git</developerConnection>
+        <url>https://github.com/mahmutihsandal/maven-multi-module</url>
+    </scm>
 </project>
